@@ -4,7 +4,7 @@ This is an Employee Management System built using Java and JSP in Eclipse.
 
 ## Features
 
-- Add, update, delete employee records
+- Add and delete employee records
 - Upload employee images
 - Database integration using JDBC
 - Simple UI using JSP and HTML
